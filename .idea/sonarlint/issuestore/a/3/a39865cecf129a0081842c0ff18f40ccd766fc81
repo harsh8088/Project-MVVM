@@ -1,0 +1,4 @@
+
+wsquid:S1450"TRemove the "mRepo" field and declare it as a local variable in the relevant methods.(´×Šúÿÿÿÿ8ÓŠç‰-
+Fsquid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8èÀæ¡‰-
+dsquid:S21420"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8èÀæ¡‰-
